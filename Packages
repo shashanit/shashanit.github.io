@@ -1,11 +1,11 @@
-Package: com.shashwat.livetv
-Version: 1.13
+Package: com.shashanit.livetvtest
+Version: 1.5
 Architecture: iphoneos-arm
-Filename: /com.shashanit.livetvtest_1.5_iphoneos-arm.deb
-Size: 6771312
-MD5sum: d8a7d22a182254ff2f9775b0993aa740
-SHA1: a551f3318c4d153a59b795fd65e8e9cb9f497239
-SHA256: 66fffea600e02d764d86c7dfd3965c9e125091ccd310c1887096cbd2b6623b02
+Filename: /livetv.deb
+Size: 5723452
+MD5sum: 38b7128606bac1b65be1a8ef91af1d3d
+SHA1: 839e554c2ceff7de9eff10ad3a2fe7707016a7de
+SHA256: bc250b714b5eb4102a68aa68dbdce4e92f79ae34915e3bd8d196f09f643396dc
 Section: Live TV Test
 Description: App Description None
 Author: Shashwat
