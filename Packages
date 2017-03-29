@@ -1,11 +1,11 @@
-Package: com.testshivansh.livetv
-Version: 1.6
+Package: com.slicktv.SlickTVApp
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: /com.testshivansh.livetv_1.1_iphoneos-arm.deb
-Size: 31818720
-MD5sum: 3ab9e9e7671460867e67acbcec652567
-SHA1: 7a598fe48de2ea7f82d5121cabebdb4a1259fd71
-SHA256: ce8c3ca4a22721e8b8fc12daeb802c65a8485bc03af2a1c45ddf6912a612fae2
+Filename: /com.slicktv.slicktvapp_1.0_iphoneos-arm.deb
+Size: 31977444
+MD5sum: 49f47f7a6ad0624ae08509619e695cb4
+SHA1: ddee0075a33ec77ebf08cb952e504905ceb00096
+SHA256: 61fb3813f75169fcb7388ec1fb7a22fb23d66b2ae6d39f3a830d3e3798aa94b5
 Section: Live
 Description: App Description None
 Author: Shashwat
